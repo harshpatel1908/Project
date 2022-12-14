@@ -61,13 +61,13 @@ Contact Us
 
 - harsh_feature1.html
 - harsh_feature1.css
-- harsh_feature1.js
+- harsh_feature1.js - I used hash function and table and also animation function for smooth scrolling.
 - harsh_feature2.html
 - harsh_feature2.css
-- harsh_feature2.js
+- harsh_feature2.js - I used hash function and table and also animation function for smooth scrolling.
 - harsh_feature3.html
 - harsh_feature3.css
-- harsh_feature3.js
+- harsh_feature3.js - I used form validation and sliding animation.
 
 ## RESOURCES:
 
